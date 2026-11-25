@@ -1,8 +1,10 @@
-# Typora Plugin Example
+# Typora Plugin Md Format
 
 This is a plugin based on [typora-community-plugin](https://github.com/typora-community-plugin/typora-community-plugin) for [Typora](https://typora.io).
 
+中英文混排优化（三选一）
 
-## Development Documentation
+- https://github.com/harttle/md-padding
+- https://github.com/jacobbubu/md-zh-format
+- https://github.com/huacnlee/autocorrect
 
-See [Development Documentation](https://github.com/typora-community-plugin/typora-community-plugin/blob/main/docs/en-us/dev-guide/0-dev-docs.md) or [Getting Started](https://github.com/typora-community-plugin/typora-community-plugin/blob/main/docs/en-us/dev-guide/1-getting-started.md)
